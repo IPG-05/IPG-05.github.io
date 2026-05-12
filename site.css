@@ -23,3 +23,8 @@ ul {
     padding: 20px;
     list-style-position: inside;
 }
+
+img {
+    width: 200px;
+    heigth: 200px;
+}
